@@ -59,5 +59,6 @@ For development, load it temporarily through:
 ├── popup.html
 ├── popup.css
 ├── popup.js
+├── README.md
 └── LICENSE
 ```
