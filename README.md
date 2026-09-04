@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="200" height="200" alt="dice" src="https://github.com/user-attachments/assets/8ee13c3f-86f1-4838-afd4-1712b161a973" />
+</p>
+
 # VtM d10 Roller
 
 VtM d10 Roller.
