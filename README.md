@@ -1,7 +1,17 @@
-# VtM d10 Dice Roller
+# VtM d10 Roller
+
+VtM d10 Roller.
 
 A simple Firefox extension for rolling d10 dice pools for **Vampire: The
 Masquerade**.
+
+A lightweight d10 roller for **Vampire: the Masquerade**. Build pools, set
+difficulty and thresholds, roll instantly, and track criticals, messy criticals,
+successes, and failures throughout your session.
+
+## Demo
+
+https://github.com/user-attachments/assets/43d60000-5c7d-4fe7-a4f5-9e4bf75358d7
 
 ## Features
 
@@ -25,8 +35,10 @@ Masquerade**.
 - 2 tens = 4 successes
 - 3 tens = 5 successes
 - 4 tens = 8 successes
+- ...
+
 - One 10 on a winning roll is a **Messy Critical**.
-- Two or more 10s on a winning roll are a **Critical Win**.
+- Two or more 10s on a winning roll is a **Critical Win**.
 - One 1 on a failed roll is a **Messy Failure**.
 - Two or more 1s on a failed roll are a **Bestial Failure**.
 
@@ -48,3 +60,4 @@ For development, load it temporarily through:
 ├── popup.css
 ├── popup.js
 └── LICENSE
+```
