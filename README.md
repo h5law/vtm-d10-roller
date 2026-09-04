@@ -10,6 +10,16 @@ A simple Firefox extension for rolling d10 dice pools for **Vampire: The Masquer
 
 A lightweight d10 roller for **Vampire: the Masquerade**. Build pools, set difficulty and thresholds, roll instantly, and track criticals, messy criticals, successes, and failures throughout your session.
 
+## Add-on Official Site
+
+The add-on/extension will be available at:
+<a
+href="https://addons.mozilla.org/fr/firefox/addon/vtm-d10-dice-roller/">Mozilla
+Extensions Store</a>
+once it has been digitally signed off by Mozilla (IN-PROGRESS). Which will mean
+it can be installed like any other Add-on. Until then it must be installed in
+development mode, instructions are below.
+
 ## Demo
 
 https://github.com/user-attachments/assets/43d60000-5c7d-4fe7-a4f5-9e4bf75358d7
